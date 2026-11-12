@@ -5,8 +5,10 @@
 <p>Using the <a href="https://github.com/rebelot/kanagawa.nvim">Kanagawa palette</a> by <a href="https://github.com/rebelot">Tommaso Laurenzi (rebelot)</a>.</p>
 <p>Based on <a href="https://github.com/uiriansan/SilentSDDM">SilentSDDM</a> by <a href="https://github.com/uiriansan">uiriansan</a>.</p>
 
+<br clear="both">
+
 <!-- Wave accents: carpYellow, crystalBlue, autumnRed. Lotus accents: lotusYellow, lotusBlue4, lotusRed. -->
-<p>
+<p align="center">
   <a href="https://github.com/kanagawa-community/silent-sddm/stargazers">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/kanagawa-community/silent-sddm?style=for-the-badge&amp;labelColor=1F1F28&amp;color=E6C384">
@@ -30,7 +32,6 @@
   </a>
 </p>
 
-<br clear="both">
 <br>
 
 ## Previews
